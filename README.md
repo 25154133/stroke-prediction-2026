@@ -12,7 +12,7 @@ te voorspellen op basis van de Kaggle-competitie
 ## Beste Kaggle-score
 F1 = **0,11969** (voting-ensemble RF+KNN+SVM, drempel × 0,80)
 
-https://colab.research.google.com/github/TTekle/stroke-prediction-2026/blob/main/Opdracht1_herseninfarct_samengevoegd_3_pep8.ipynb
+https://colab.research.google.com/github/25154133/stroke-prediction-2026/blob/main/Opdracht1_herseninfarct_samengevoegd_3_pep8.ipynb
 
 ## Bestanden
 - `Opdracht1_herseninfarct_samengevoegd_3_pep8.ipynb`--> het volledige notebook
