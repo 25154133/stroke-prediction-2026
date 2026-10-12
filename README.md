@@ -16,6 +16,6 @@ https://colab.research.google.com/github/25154133/stroke-prediction-2026/blob/ma
 
 ## Bestanden
 - `Opdracht1_herseninfarct_samengevoegd_3_pep8.ipynb`--> het volledige notebook
-- `Opdracht1_herseninfarct_samengevoegd_3_pep8.html` —-> gerenderde HTML-versie
+- `Opdracht1_herseninfarct_samengevoegd_3_pep8.html` —-> HTML-versie
 - `train.csv`, `test.csv`, `sample_submission.csv` —-> data van Kaggle
 - `submission_voting_t80.csv`, `submission_knn_t90.csv` —-> beste Kaggle-inzendingen
